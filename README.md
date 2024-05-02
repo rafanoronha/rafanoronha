@@ -6,6 +6,7 @@ I'm a software technologist from Brazil heading to 15 years collaborating with b
 - 💻 You can find some stuff here in my Github
 - 📝 I've been publishing a few blog posts written in portuguese at [medium.com/noronha-ponto-tech](https://medium.com/noronha-ponto-tech)
 - 📝 And a few blog posts written in english at [medium.com/noronha-dot-tech](https://medium.com/noronha-dot-tech)
+- 💻 I've also been side hustling my first indie business - [Valdir](https://valdir.tech)
 - 🤔 I can see a next gig joining a remote-first engineering team, helping to scale a startup looking for world-wide top talent
 
 <!--
